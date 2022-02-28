@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the loyal apprentices in and about London and Westminster, for their making of a noble, extraordinary, rejoycing prossession, on Monday the eleventh of April, 1698 : being His Majesties coronation day, in congratulation of His Majestys safe return home; : and for the honourable, firm, and lasting peace. / written by Captain Anthony Stampe.</title>
+            <author>Stampe, Anthony.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93777</idno>
+            <idno type="STC">Wing S5191A</idno>
+            <idno type="STC">ESTC R184574</idno>
+            <idno type="EEBO-CITATION">43078162</idno>
+            <idno type="OCLC">ocm 43078162</idno>
+            <idno type="VID">151752</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151752)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2275:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the loyal apprentices in and about London and Westminster, for their making of a noble, extraordinary, rejoycing prossession, on Monday the eleventh of April, 1698 : being His Majesties coronation day, in congratulation of His Majestys safe return home; : and for the honourable, firm, and lasting peace. / written by Captain Anthony Stampe.</title>
+                  <author>Stampe, Anthony.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Whitlock, near Stationers-Hall,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Apprentices --  England --  Early works to 1800.</term>
+               <term>Parades --  England --  Early works to 1800.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:151752:1" rendition="simple:additions"/>
+            <head>A LETTER to the Loyal APPRENTICES In and about <hi>LONDON</hi> and <hi>WESTMINSTER,</hi> for Their making of a Noble, Extraordinary, Rejoycing <hi>PROSSESSION,</hi> on <hi>Monday</hi> the Eleventh of <hi>April,</hi> 1698. being His Majeſties Cor<g ref="char:EOLhyphen"/>ronation Day, in Congratulation of His Majeſtys ſafe Returne Home; and for the Honourable, Firm, and Laſting <hi>PEACE.</hi>
+            </head>
+            <byline>Written by Captain <hi>Anthony Stampe.</hi>
+            </byline>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>31. Dec. 1697.</add>
+                  </date>
+               </dateline>
+               <lb/>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>IT'S out of my kind Reſpects I have made bold, in this general Letter to you all, who, though you now live under Obedience to your Reſpective Ma<g ref="char:EOLhyphen"/>ſters, till your Several Terms of Years are expir'd, yet may in time come to be the <hi>Great Body</hi> of this his <hi>Majeſties</hi> Emperial <hi>City,</hi> as well as thoſe you now Serve: Therefore are you very Conſiderable in your Selves, and equally concerned in Publick Rejoycings with thoſe that are <hi>Freemen.</hi>
+            </p>
+            <p>Now, That you may not be thought deficient in your <hi>Loyalty,</hi> nor inſenſible of the Bleſſings of <hi>Peace,</hi> and the Benefits from thence to be received in a <hi>Free-Trade,</hi> which in a ſmall time will accrew to your own Profit, and Enjoyment; if I may be deemed Worthy to Advice you, my Counſel to you ſhould be, for your bring<g ref="char:EOLhyphen"/>ing up of the Rear of all the Congratulations of the Kingdom, being an Honour<g ref="char:EOLhyphen"/>able Poſt, in the Second degree of Dignity; eſpecially if in ſome way of Rejoyc<g ref="char:EOLhyphen"/>ing diſtinguſhed from others, and proper for you, it would certainly gain you a laſting Reputation that Time ſhall not wear out<g ref="char:punc">▪</g> To that good end, I have invented, and drawn a Scheme of a moſt Magnificent, Triumphant, Congratulatory, Rejoycing Proceſſion of <hi>Britannia</hi> and Four other Ladies that repreſents his <hi>Maj<g ref="char:EOLhyphen"/>eſties</hi> Kingdoms: The whole of it will be ſo fine and rare, that it is not to be parallel'd.</p>
+            <p>I have deſigned that this Noble Proceſſion ſhall be made by you, on <hi>Monday</hi> the 11th of <hi>April,</hi> being his <hi>Majeſties</hi> Coronation Day; as the only fit and moſt proper time for you to make your Rejoycings in: Becauſe by that time all the remaining Con<g ref="char:EOLhyphen"/>gratulations will be preſented, and all things relating to make the ſame Graceful; will be got ready.</p>
+            <p>To gratify your Curioſity, I am willing to give you an abſtract of the intended Pro<g ref="char:EOLhyphen"/>ceſſion: For if I ſhould give you the Scheme at large, it would take up ſome Sheets of Paper to Set down in Order all the perticulars thereof: The Heads of the moſt Material parts of it are as followth, which may Suffice at preſent. There will be above Four Hundred <hi>Wind</hi> and <hi>String</hi> Inſtruments of <hi>Muſick;</hi> at leaſt Twelve Thouſand <hi>Flambeauxs,</hi> a great Number of <hi>Footmen, Pages,</hi> and <hi>Pages</hi> of Honour, all in Orange Liverrys: Fifty <hi>Banners,</hi> bore up, if not more, according to the Num<g ref="char:EOLhyphen"/>ber of Diviſions: Every Diviſion to contain about two Hundred; and the Di<g ref="char:EOLhyphen"/>viſions you are to go in, are to be Diſtinguiſhed by your Habits one from ano<g ref="char:EOLhyphen"/>ther, by your being in ſeveral Ranks and Qualitys: For the Meaner ſort of you, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re to go in the foremoſt Diviſions, they carrying their own <hi>Flambeauxs;</hi> and the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etter ſort of you are to go in the latter Diviſions, with others to attend you with <hi>Flambeauxs:</hi> The whole Proceſſion is to be all in White, (Saving the <hi>La<g ref="char:EOLhyphen"/>dyes, Pages</hi> and <hi>Footmen)</hi> denoting Innocency and Peace in your Innoffencive Mirth; Singing all the way you go a new proper Song, to be made purpoſely for the Occaſion; and the <hi>Muſick</hi> playing all the way the ſame Tune. There will be five <hi>Champions</hi> in Armor, to go before their Reſpective Ladys: <hi>Bri<g ref="char:EOLhyphen"/>tannia</hi> mighty Richly Attired, ſiting in an Open, Stately, Triumphal <hi>Chariot,</hi> to be drawn by Eight white Horſes, Lead by Sixteen Grooms; and the other La<g ref="char:EOLhyphen"/>dies in very Rich Apparel, ſiting in Four Diſtinct, Beautiful, Open <hi>Chariots,</hi> differing one from another, each of them to be Drawn by ſix white Horſes, and Lead by Twelve Grooms, to each Set of Horſes, in Liverry as before, and all the <hi>Chariots</hi> to be drawn without <hi>Coachmen</hi> or <hi>Poſtilians.</hi>
+            </p>
+            <p>There is to be <hi>Morris-Dancers</hi> and <hi>Anticks,</hi> with other ſtrange Raritys. The Proceſſion is to proceed thro' the Street, in regularly Order, from <hi>Algate</hi> to the <hi>Cathedral-Church</hi> of St. <hi>Pauls,</hi> ſo as to be there about Three of the <hi>Clock</hi> in the afternoon, to heare the Divine Service for that day, with a Congratulary Sermon to be Preached; and at the cloſe thereof, Anthams alſo to be Sung before you, made Purpuſe<g ref="char:EOLhyphen"/>ly for the late Bleſſings received; when all this is ended, you are then to proceed
+<pb facs="tcp:151752:2"/> on to his <hi>Majeſties</hi> Royal Palace-gate of <hi>White-Hall,</hi> or to <hi>Chairing-Croſs,</hi> or St. <hi>James's Square,</hi> as you ſhall be directed. And when it begins to be duskiſh, then you are to light all your <hi>Fambeauxes,</hi> and not before, becauſe they may the better hold out till all things are acted and done: For, at one of thoſe places is to be erected a moſt Glori<g ref="char:EOLhyphen"/>ous Throne, Illuminated all over, without and within, with an inumerable Number of Lights, &amp; them within infinitely Multiplyed; where his <hi>Majeſties</hi> Royal Heroick Ver<g ref="char:EOLhyphen"/>tues are wrote in Capital Letters, with his <hi>Majeſties Cyphers</hi> and <hi>Crownes,</hi> to be ſeen and Read, all in <hi>Glory;</hi> with the <hi>Sun</hi> alſo. When the Ladies Deſcend out of their <hi>Chariots,</hi> they are to Aſcend the Throne, and to take their Places according to their Qualitys: The four Ladies are to ſit under <hi>Britannia</hi> all in State; where the Ultimate <hi>Cerimony</hi> is to be performed on a large Stage, placed before the Throne.</p>
+            <p>
+               <hi>Gentlemen,</hi> The performance of this will be a grateful acknowledgment of the Dutiful Obedience you Juſtly owe unto his <hi>Majeſties</hi> High and Princely Merits: And will let the World ſee, that you Seriouſly conſider, and Thankfully own what his <hi>Majeſty</hi> has done for his <hi>Subjects,</hi> and the great Bleſſing to this Nation in ge<g ref="char:EOLhyphen"/>neral, and this Honourable <hi>City</hi> of <hi>London</hi> in particular, as in the following Inſtances.</p>
+            <p>
+               <hi>Firſt,</hi> 'Twas Divine Providence that brought his <hi>Majeſty</hi> over to us, to be our deliver from the then Impeding <hi>Slavery</hi> &amp; <hi>Popery;</hi> and reſtore our <hi>Liberties</hi> &amp; <hi>Properties.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> By his <hi>Majeſties</hi> Protecting us in our <hi>Religion;</hi> and his being, not only the <hi>Deffender</hi> of the <hi>Ptoteſtant Faith</hi> at <hi>Home,</hi> but a <hi>Broad</hi> alſo.</p>
+            <p>
+               <hi>Thirdly,</hi> For his <hi>Majeſties</hi> Quelling of <hi>Scotland:</hi> And Reducing of <hi>Ireland,</hi> that might elſe have proved an utter Ruin to <hi>England:</hi> And the Fight fought by him at the <hi>Boyne,</hi> never to be forgotten.</p>
+            <p>
+               <hi>Fourthly,</hi> For the Miraculus Preſervation of his <hi>Majeſties</hi> Royal Perſon againſt <hi>Treaſonable Practices,</hi> that were deſigned, both a <hi>Broad</hi> and at <hi>Home,</hi> to take away his moſt <hi>Sacred</hi> Life, purpoſely to Involue his Kingdoms into Confuſion and Blood.</p>
+            <p>
+               <hi>Fifthly,</hi> For his <hi>Majeſties</hi> frequent Croſſing the <hi>Seas,</hi> whereby he kept a de<g ref="char:EOLhyphen"/>ſtructive <hi>War</hi> out of his Kingdoms.</p>
+            <p>
+               <hi>Sixthly,</hi> For his <hi>Majeſties</hi> Safe Return <hi>Home</hi> with Glory, from the final end of this Dangerous War.</p>
+            <p>
+               <hi>Seventhly,</hi> For his <hi>Majeſties</hi> Perſonal Valour and Prudent Conduct did force his Potent <hi>Enemy</hi> to Seek, and Yeild to an Honourable, Firm, and Laſting Peace, which his <hi>Majeſty</hi> hath purchas'd with the often Hazards of his moſt Precious Life.</p>
+            <p>If all theſe Valuable Conſiderations ſhall, as I ſuppoſe they will, preſs home up<g ref="char:EOLhyphen"/>on you, ſo as to make the ſaid Proceſſion, it will Viſible Demonſtrate to the World the Joy, Zeal, and Affection you Stedfaſtly have, and bear to his <hi>Majeſties</hi> Royal Perſon and Government; and it will, beſides, be a great Honour to your <hi>City,</hi> and for your Selves, it will erect you an everlaſting living Monument of Fame.</p>
+            <p>
+               <hi>Gentlemen,</hi> My Requeſt is, That ſuch of you as ſhall approve of this Laudable de<g ref="char:EOLhyphen"/>ſign of mine, will, with what convenient Speed you can, be pleaſed to repare to the <hi>Marine Coffee-Houſe</hi> in <hi>Birching-Lane,</hi> near <hi>Cornhill,</hi> on <hi>Tueſdays, Wedneſdays</hi> and <hi>Fridays,</hi> from two of the <hi>Clock</hi> in the <hi>Afternoon,</hi> where Attendance ſhall be given, not only to ſhew the Scheme of the ſaid Proceſſion, which I have Drawn at large, but Likewiſe to Sign an Inſtrument to Impower me to Petition his <hi>Majeſty,</hi> on your Behalfes, for his Royal Leave, whereby you may make the ſaid Proceſ<g ref="char:EOLhyphen"/>ſion accordingly; and if you are Remote from thence, and your occaſions cannot permit you to come thither, then I deſire you, with thoſe others you meet withal, that are <hi>Apprentices</hi> in any other part of the Town, to draw up ſuch a pa<g ref="char:EOLhyphen"/>per amongeſt your Selves, and ſign it, to Impower me, as aforeſaid, and ſend it by the Penny <hi>Poſt</hi> to the ſaid <hi>Coffee-Houſe</hi> for me, and as ſoon as I have Obtain<g ref="char:EOLhyphen"/>ed Leave for your making the ſaid Proceſſion, I will give you Notice thereof in Print, and likewiſe what is further Requiſit to be done, in Order to raiſe a <hi>Fund</hi> to Compleat the ſaid deſign; and the Money ſo raiſed, to be diſpoſed of, for the uſe aforeſaid, by ſuch Perſons as ſhall be appointed by you. The more you are in Number, to make this Proceſſion Prodigious, will make the Charge thereof both Light and Eaſe to you all. I am</p>
+            <closer>
+               <signed>Your moſt Humble Servant <hi>Anthony Stampe</hi>
+               </signed>
+               <dateline>
+                  <date>The 31ſt of <hi>December,</hi> 1697.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ONDON,</hi> Printed for <hi>E. Whitlock,</hi> near <hi>Stationers-Hall,</hi> 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
